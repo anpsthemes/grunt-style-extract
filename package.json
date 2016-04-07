@@ -1,0 +1,30 @@
+{
+  "name": "grunt-style-extract",
+  "description": "Extract properties from CSS files.",
+  "version": "1.0.0",
+  "homepage": "https://github.com/anpsthemes/grunt-style-extract",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anpsthemes/grunt-style-extract.git"
+  },
+  "bugs": {
+    "url": "https://github.com/anpsthemes/grunt-style-extract/issues"
+  },
+  "author": {
+    "name": "anpsthemes",
+    "email": "support@anpsthemes.com",
+    "url": "http://anpsthemes.com/"
+  },
+  "license": "MIT",
+  "keywords": [
+    "extract",
+    "CSS",
+    "grunt"
+  ],
+  "dependencies": {
+    "style-extract": "^1.0.0"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.5"
+  }
+}
